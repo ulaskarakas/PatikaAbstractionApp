@@ -46,7 +46,7 @@ An Employee abstract class is defined with the following properties and method:
 - **Methods**:
   - `Task()`: A method to define the employee's task.
  
-Classes implementing the IEmployee interface:
+Classes inheriting from the Employee abstract class:
 - `SoftwareDeveloperWithClass`
 - `ProjectManagerWithClass`
 - `SalesRepresentativeWithClass`
